@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Monster
+comment1.params=
+comment1.target=Monster()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ rangeAttack()
+comment4.params=
+comment4.target=void\ facePlayer()
+comment5.params=
+comment5.target=void\ followPlayer()
+numComments=6

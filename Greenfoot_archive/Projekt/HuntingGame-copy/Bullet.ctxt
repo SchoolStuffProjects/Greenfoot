@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=Je\ kulka\ vyst\u0159elen\u00E1\ akt\u00E9rem\ MonsterRanged.
+comment1.params=
+comment1.target=void\ act()
+comment2.params=rotation
+comment2.target=Bullet(int)
+comment3.params=
+comment3.target=void\ deleteYourselfAtEdge()
+numComments=4

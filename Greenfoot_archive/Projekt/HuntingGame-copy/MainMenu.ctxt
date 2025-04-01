@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=V\ tomto\ sv\u011Bte\ se\ hr\u00E1\u010D\ objev\u00ED\ na\ za\u010D\u00E1tku\ hry\ a\ m\u00E1\ z\ n\u011Bj\ mo\u017Enost\ hru\ za\u010D\u00EDt.
+comment1.params=
+comment1.target=MainMenu()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ started()
+comment4.params=
+comment4.target=void\ stopped()
+numComments=5

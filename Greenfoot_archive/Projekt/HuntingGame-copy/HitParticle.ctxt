@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HitParticle
+comment0.text=P\u0159i\ \u0161vihu\ me\u010Dem/\ \u00FAtoku\ se\ objev\u00ED\ ve\ sv\u011Bt\u011B\ a\ je\ zodpov\u011Bdn\u00FD\ za\ zabit\u00ED\ nep\u0159\u00EDtele.
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ kill()
+comment3.params=
+comment3.target=void\ despawnTime()
+comment4.params=
+comment4.target=void\ giveMoney()
+numComments=5

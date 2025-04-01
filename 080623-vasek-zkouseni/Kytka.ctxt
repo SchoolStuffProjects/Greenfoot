@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Kytka
+comment1.params=
+comment1.target=void\ act()
+comment1.text=int\ timer\ \=\ 0;\r\n\ \ \ \ public\ void\ act()\ \r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ timer++;\r\n\ \ \ \ \ \ \ \ if(timer\ >\ 100)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ getWorld().removeObject(this);\r\n\ \ \ \ \ \ \ \ \ \ \ \ timer\ \=\ 0;\r\n\ \ \ \ \ \ \ \ }\r\n}
+comment2.params=pocetKol
+comment2.target=Kytka(int)
+numComments=3
